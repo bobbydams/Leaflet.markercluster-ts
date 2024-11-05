@@ -1,0 +1,15 @@
+{
+    "private": true,
+    "name": "leaflet.markercluster-ts.types",
+    "version": "1.0.0",
+    "types": "./index.d.ts",
+    "projects": [
+        "https://github.com/bobbydams/leaflet.markercluster-ts"
+    ],
+    "dependencies": {
+        "@types/leaflet": "*"
+    },
+    "devDependencies": {
+        "leaflet.markercluster-ts.types": "workspace:."
+    }
+}
